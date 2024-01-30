@@ -1,4 +1,4 @@
-## 'protype-01'
+## 'prototype-01'
 
 <br>
 
